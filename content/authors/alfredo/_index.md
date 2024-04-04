@@ -26,7 +26,7 @@ bio: NLP
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Language and Information Technologies
       institution: Carnegie Mellon University
 
 # Social/Academic Networking
