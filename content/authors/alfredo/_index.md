@@ -24,14 +24,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: NLP
 
-interests:
-  - Computational Linguistics
-
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Carnegie Mellon University
-      year: 2028
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,4 +48,4 @@ user_groups:
   - PhD Students
 ---
 
-Alfredo Gomez is a first-year PhD student at the Language Technologies Institute within Carnegie Mellon University’s School of Computer Science, advised by Mona Diab and Fernando Diaz.
+Alfredo Gomez is a PhD student at the Language Technologies Institute within Carnegie Mellon University’s School of Computer Science, advised by Mona Diab and Fernando Diaz.
