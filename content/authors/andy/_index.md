@@ -24,17 +24,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: NLP
 
-interests:
-  - Computational Linguistics
 
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Carnegie Mellon University
-      year: 2028
-    - course: BSc in Math and Computer Science
-      institution: Harvey Mudd College
-      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
