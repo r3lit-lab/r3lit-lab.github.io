@@ -47,6 +47,9 @@ social:
   - icon: link
     icon_pack: fas
     link: http://enscma2.github.io/
+  - icon: semantic-scholar
+    icon_pack: ai
+    link: https://www.semanticscholar.org/author/Karina-Halevy/2106627578
   - icon: github
     icon_pack: fab
     link: https://github.com/enscma2
