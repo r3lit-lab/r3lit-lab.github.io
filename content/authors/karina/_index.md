@@ -44,7 +44,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:khalevy@andrew.cmu.edu'
-  - icon: semantic-scholar
+  - icon: ai-semantic-scholar
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Karina-Halevy/2106627578
   - icon: link
