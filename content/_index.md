@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        R3Lit Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Welcome to the R3Lit Lab's webpage! We are a natural language processing research group, led by [Professor Mona Diab](https://en.wikipedia.org/wiki/Mona_Diab), based at Carnegie Mellon University's Language Technologies Institute.
   
   - block: collection
     content:
