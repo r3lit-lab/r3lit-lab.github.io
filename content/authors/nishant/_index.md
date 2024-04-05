@@ -40,6 +40,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/nsubramani23
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://www.semanticscholar.org/author/Nishant-Subramani/34202134
   - icon: link
     icon_pack: fas
     link: https://nishantsubramani.github.io/
