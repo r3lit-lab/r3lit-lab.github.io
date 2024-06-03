@@ -17,8 +17,6 @@ publishDate: '2024-06-03T00:00:00Z'
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
 publication: In the Findings of the Association for Computational Linguistics: ACL 2024
 publication_short: ACL 2024 Findings
 
