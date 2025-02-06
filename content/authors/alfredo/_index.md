@@ -48,4 +48,4 @@ user_groups:
   - PhD Students
 ---
 
-Alfredo Gomez is a PhD student at the Language Technologies Institute within Carnegie Mellon University’s School of Computer Science, advised by Mona Diab and Fernando Diaz.
+Alfredo Gomez is a second-year PhD student at the Language Technologies Institute within Carnegie Mellon University’s School of Computer Science, advised by Mona Diab and Fernando Diaz.

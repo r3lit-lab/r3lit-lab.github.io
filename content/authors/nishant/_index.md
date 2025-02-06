@@ -62,4 +62,4 @@ user_groups:
   - PhD Students
 ---
 
-Nishant Subramani is a first-year PhD student at the Language Technologies Institute within Carnegie Mellon University’s School of Computer Science, advised by Mona Diab.
+Nishant Subramani is a second-year PhD student at the Language Technologies Institute within Carnegie Mellon University’s School of Computer Science, advised by Mona Diab.
