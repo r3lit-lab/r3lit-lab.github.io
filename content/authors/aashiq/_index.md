@@ -11,7 +11,7 @@ authors:
   - aashiq
 
 # Is this the primary user of the site?
-superuser: falses
+superuser: false
 
 # Role/position
 role: Master of Language Technologies
