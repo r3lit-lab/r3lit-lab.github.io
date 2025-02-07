@@ -13,8 +13,8 @@ sections:
       user_groups:
           - Principal Investigators
           - PhD Students
-          - MLT Students
-          - MIIS Students
+          - Masters Students
+          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:

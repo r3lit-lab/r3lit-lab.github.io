@@ -69,4 +69,4 @@ user_groups:
   - PhD Students
 ---
 
-Karina is a first-year PhD student at the Language Technologies Institute within Carnegie Mellon University’s School of Computer Science, advised by Mona Diab and Maarten Sap.
+Karina is a second-year PhD student at the Language Technologies Institute within Carnegie Mellon University’s School of Computer Science, advised by Mona Diab and Maarten Sap.
