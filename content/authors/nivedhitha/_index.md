@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Master of Computational Data Science
 
 # Organizations/Affiliations
 organizations:
