@@ -35,12 +35,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
- - icon: envelope
-   icon_pack: fas
-   link: 'mailto:yunzex@andrew.cmu.edu'
- - icon: twitter
-   icon_pack: fab
-   link: https://twitter.com/lrzneedresearch
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:yunzex@andrew.cmu.edu'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/lrzneedresearch
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=95n7XTkAAAAJ
